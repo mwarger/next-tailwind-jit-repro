@@ -13,7 +13,8 @@ function CustomApp({ Component, pageProps }: AppProps) {
       <div className="app">
         <header className="flex">
           <NxLogo width="75" height="50" />
-          <h1>Welcome to next-tailwind!</h1>
+          <h1 className="text-blue-500">Welcome to next-tailwind!</h1>
+          <h1 className="text-green-500">Welcome to next-tailwind!</h1>
         </header>
         <main>
           <Component {...pageProps} />
