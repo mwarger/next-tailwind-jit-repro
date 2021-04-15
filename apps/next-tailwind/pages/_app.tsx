@@ -15,7 +15,7 @@ function CustomApp({ Component, pageProps }: AppProps) {
           <NxLogo width="75" height="50" />
           <h1 className="text-blue-500">Welcome to next-tailwind!</h1>
           {/* With jit enabled, try changing one of these to red instead */}
-          <h1 className="text-green-500">Welcome to next-tailwind!</h1>
+          <h1 className="text-purple-500">Welcome to next-tailwind!</h1>
         </header>
         <main>
           <Component {...pageProps} />

@@ -1,5 +1,7 @@
 # Tailwind JIT Issue
 
+> Update: This issue can be solved by creating a `.env` file in the workspace root and adding `TAILWIND_MODE=watch`...
+
 To run:
 `yarn install`
 

@@ -1,5 +1,5 @@
 module.exports = {
-  // mode: 'jit',
+  mode: 'jit',
   purge: [
     './apps/next-tailwind/pages/**/*.{js,ts,jsx,tsx}',
     './apps/next-tailwind/components/**/*.{js,ts,jsx,tsx}',
