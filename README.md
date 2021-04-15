@@ -2,6 +2,7 @@
 
 To run:
 `yarn install`
+
 `yarn nx serve next-tailwind`
 
 To recreate:
