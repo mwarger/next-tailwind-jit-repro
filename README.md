@@ -1,5 +1,7 @@
 # Tailwind JIT Issue
 
+Created for this issue: https://github.com/tailwindlabs/tailwindcss/issues/4081
+
 > Update: This issue can be solved by creating a `.env` file in the workspace root and adding `TAILWIND_MODE=watch`...
 
 To run:
